@@ -1,3 +1,4 @@
 # CovidDataExploratory-Data-Analysis-Project
-The dataset contains information about the coronavirus pandemic 2019. It consists about all the factors that were collected from the true patients who were infected by the this virus. 
-The project is been done in SQL using different types of querry.
+The dataset provides information about the 2019 coronavirus pandemic.
+It is made up of all of the elements gathered from actual patients who were afflicted with this virus.
+The exploratory process is been done using SQL Query.
